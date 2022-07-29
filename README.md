@@ -1,4 +1,5 @@
-# Mangonel Project (UTA016)
-Code and designs for the mangonel project.
+# Mangonel Project (UTA016) TIET
 
-***Test Video will be added after Evaluations.***
+Code and designs for the mangonel project - UTA016.
+
+All the code was implemented on a *Arduino UNO*.
